@@ -2,7 +2,7 @@
 //  CellCarController.swift
 //  AutoRace
 //
-//  Created by Alexia Ruiz Quiroz on 21/10/21.
+//  Created by Alberto Hoyos on 21/10/21.
 //
 
 import Foundation
