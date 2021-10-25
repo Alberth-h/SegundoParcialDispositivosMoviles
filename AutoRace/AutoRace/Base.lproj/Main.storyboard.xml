@@ -38,8 +38,8 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="139.66666666666666" height="135"/>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="name" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nR6-OF-Ylp" userLabel="LblName">
-                                                    <rect key="frame" x="139.66666666666666" y="52.666666666666657" width="288.33333333333337" height="30"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                                    <rect key="frame" x="139.66666666666666" y="51.333333333333343" width="288.33333333333337" height="32.666666666666657"/>
+                                                    <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="25"/>
                                                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
@@ -119,25 +119,25 @@
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Speed: data" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2nn-lM-Rhh" userLabel="LblCarSpeed">
                                 <rect key="frame" x="0.0" y="412" width="192.66666666666666" height="31.333333333333314"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Acceleration: data" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h7l-od-09h" userLabel="LblCarAcceleration">
                                 <rect key="frame" x="192.66666666666663" y="412" width="235.33333333333337" height="31.333333333333314"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Handling: data" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="icw-rJ-5H1" userLabel="LblCarHandling">
                                 <rect key="frame" x="0.0" y="443.33333333333331" width="192.66666666666666" height="31.666666666666686"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Weight: data" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IOG-NI-jiq" userLabel="LblCarWeight">
                                 <rect key="frame" x="192.66666666666663" y="443.33333333333331" width="235.33333333333337" height="31.666666666666686"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="24"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -157,27 +157,27 @@
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="LPh-Yd-k6a" userLabel="ImgDriver">
                                                     <rect key="frame" x="0.0" y="0.0" width="111.66666666666667" height="108"/>
                                                 </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="n°" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sHX-o6-nBI" userLabel="LblPosition">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="3°" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sHX-o6-nBI" userLabel="LblPosition">
                                                     <rect key="frame" x="379" y="0.0" width="49" height="108"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="47"/>
+                                                    <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="38"/>
                                                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="name" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gx6-q2-Qao" userLabel="LblDriverName">
-                                                    <rect key="frame" x="121.66666666666666" y="0.0" width="256.66666666666674" height="24"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                                    <rect key="frame" x="121.66666666666666" y="0.0" width="256.66666666666674" height="26"/>
+                                                    <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="20"/>
                                                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="nationality" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d6l-LH-8bM" userLabel="LblNationality">
-                                                    <rect key="frame" x="121.66666666666666" y="42" width="256.66666666666674" height="24"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                                    <rect key="frame" x="121.66666666666666" y="41" width="256.66666666666674" height="26"/>
+                                                    <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="20"/>
                                                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="time" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rL7-tC-Fg0" userLabel="LblTime">
-                                                    <rect key="frame" x="121.66666666666666" y="84" width="256.66666666666674" height="24"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                                    <rect key="frame" x="121.66666666666666" y="82" width="256.66666666666674" height="26"/>
+                                                    <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="20"/>
                                                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
@@ -191,7 +191,7 @@
                                                 <constraint firstAttribute="bottom" secondItem="LPh-Yd-k6a" secondAttribute="bottom" id="FoM-uP-8wW"/>
                                                 <constraint firstItem="gx6-q2-Qao" firstAttribute="leading" secondItem="LPh-Yd-k6a" secondAttribute="trailing" constant="10" id="QCP-vZ-tdm"/>
                                                 <constraint firstItem="gx6-q2-Qao" firstAttribute="leading" secondItem="rL7-tC-Fg0" secondAttribute="leading" id="Rwp-ic-Nc1"/>
-                                                <constraint firstItem="d6l-LH-8bM" firstAttribute="top" secondItem="gx6-q2-Qao" secondAttribute="bottom" constant="18" id="aGw-7I-se4"/>
+                                                <constraint firstItem="d6l-LH-8bM" firstAttribute="top" secondItem="gx6-q2-Qao" secondAttribute="bottom" constant="15" id="aGw-7I-se4"/>
                                                 <constraint firstItem="LPh-Yd-k6a" firstAttribute="leading" secondItem="zei-zB-nGe" secondAttribute="leading" id="dvj-HH-3F1"/>
                                                 <constraint firstItem="gx6-q2-Qao" firstAttribute="leading" secondItem="d6l-LH-8bM" secondAttribute="leading" id="iuX-JJ-8by"/>
                                                 <constraint firstItem="LPh-Yd-k6a" firstAttribute="top" secondItem="zei-zB-nGe" secondAttribute="top" id="kHW-TH-Ilq"/>
@@ -218,9 +218,9 @@
                                     <outlet property="delegate" destination="BEF-WX-vml" id="UwW-mw-tPE"/>
                                 </connections>
                             </tableView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Top Drivers" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xS0-wb-P57">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Top Drivers ⭐" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xS0-wb-P57">
                                 <rect key="frame" x="0.0" y="475" width="428" height="94"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="35"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>

@@ -2,7 +2,7 @@
 //  Car.swift
 //  AutoRace
 //
-//  Created by Alberto Hoyos on 20/10/21.
+//  Created by Alexia Ruiz Quiroz on 20/10/21.
 //
 
 import Foundation
